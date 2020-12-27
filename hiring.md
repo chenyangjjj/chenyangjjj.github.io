@@ -2,7 +2,7 @@
 layout: page
 title:  We are hiring
 subtitle: What's been eating away my free time
-share-title: Dean Attali | Projects
+share-title: tengfeiguolab | we are hiring
 comments: true
 carbonads: true
 ---
