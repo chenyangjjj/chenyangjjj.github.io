@@ -16,9 +16,11 @@ author: chenyangjjj
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - tengfeiguo(PI): "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Lab Members: "members"
+  Lab News: "news"
 
 # --- Logo --- #
 
