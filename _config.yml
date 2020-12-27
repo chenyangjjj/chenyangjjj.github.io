@@ -18,10 +18,10 @@ navbar-links:
   Team:
     - TengfeiGuo(PI): "https://beautifuljekyll.com"
     - SiyuanWang: "https://www.markdowntutorial.com/"
-  Research: ""
-  Publications: ""
+  Research: "research"
+  Publications: "publication"
   Lab News: "news"
-  We are hiring: ""
+  We are hiring: "hiring"
 
 # --- Logo --- #
 
