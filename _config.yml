@@ -14,13 +14,15 @@ author: chenyangjjj
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - tengfeiguo(PI): "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Lab Members: "members"
+  Home: "/"
+  Team:
+    - TengfeigGuo(PI): "https://beautifuljekyll.com"
+    - SiyuanWang: "https://www.markdowntutorial.com/"
+  Researchs: ""
+  Publication: ""
   Lab News: "news"
+  Links: ""
+  We are hiring: ""
 
 # --- Logo --- #
 
