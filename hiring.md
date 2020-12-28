@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  We are hiring
-subtitle: What's been eating away my free time
+subtitle: 研究员/博士后/科研助理
 share-title: tengfeiguolab | we are hiring
 comments: true
 carbonads: true
