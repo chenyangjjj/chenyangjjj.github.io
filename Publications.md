@@ -1,4 +1,13 @@
-## 2020
+---
+layout: page
+title:  Publications
+comments: true
+carbonads: true
+---
+
+
+
+# 2020
 
 - Guo, Tengfei, Deniz Korman, Leslie M. Shaw, John Q. Trojanowski, William J. Jagust, Susan M. Landau, and Alzheimer’s Disease Neuroimaging Initiative. "CSF p‐Tau/AΒ40 ratio adjusts for the variance of CSF production and predicts brain tau accumulation in Alzheimer’s disease: Neuroimaging/multi‐modal comparisons." *Alzheimer's & Dementia* 16 (2020): e038679.
 - Guo, Tengfei, Leslie M. Shaw, John Q. Trojanowski, William J. Jagust, Susan M. Landau, and Alzheimer's Disease Neuroimaging Initiative. "Association of CSF Aβ, amyloid PET, and cognition in cognitively unimpaired elderly adults." *Neurology* 95, no. 15 (2020): e2075-e2085.
@@ -8,7 +17,7 @@
 
   
 
-## 2020 before:
+# 2020 before:
 
 - Guo, Tengfei, Susan M. Landau, William J. Jagust, and Alzheimer's Disease Neuroimaging Initiative. "DT‐01‐03: LONGITUDINAL AMYLOID, NEURODEGENERATION AND COGNITION IN PRE‐DEMENTIA ELDERLY INDIVIDUALS WITH DIFFERENT ATN PROFILES." *Alzheimer's & Dementia* 15 (2019): P1485-P1485.
 - Guo, Tengfei, Juergen Dukart, Matthias Brendel, Axel Rominger, Timo Grimmer, Igor Yakushev, and Alzheimer's Disease Neuroimaging Initiative. "Rate of β-amyloid accumulation varies with baseline amyloid burden: implications for anti-amyloid drug trials." *Alzheimer's & dementia* 14, no. 11 (2018): 1387-1396.
