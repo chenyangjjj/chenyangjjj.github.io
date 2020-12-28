@@ -1,4 +1,4 @@
-<img src="/assets/img/PI.png" alt="PI" style="zoom: 25%;" /> </center>
+<img src="/assets/img/PI.png" alt="PI" style="zoom: 25%;" />
 
 
 
