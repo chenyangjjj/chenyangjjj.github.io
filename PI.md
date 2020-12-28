@@ -1,4 +1,4 @@
-<img src="D:\temp\微信图片_20201225170820.jpg" alt="微信图片_20201225170820" style="zoom: 25%;" />
+<img src="/assets/img/avatar-icon.png" alt="avatar-icon" style="zoom: 100%;" />
 
 PI 
 
