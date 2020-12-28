@@ -16,7 +16,7 @@ author: tengfeiguolab
 navbar-links:
   Home: "/"
   Team:
-    - TengfeiGuo(PI): "PI.md"
+    - TengfeiGuo(PI): "PI"
     - SiyuanWang: "https://www.markdowntutorial.com/"
     - ChenyangJiang: ""
   Research: "research"
