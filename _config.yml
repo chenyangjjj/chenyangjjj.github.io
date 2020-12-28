@@ -17,10 +17,10 @@ navbar-links:
   Home: "/"
   Team:
     - TengfeiGuo(PI): "PI"
-    - SiyuanWang: "https://www.markdowntutorial.com/"
+    - SiyuanWang: ""
     - ChenyangJiang: ""
-  Research: "research"
-  Publications: "publication"
+  Research: "Research"
+  Publications: "Publication"
   Lab News: "news"
   We are hiring: "hiring"
 
