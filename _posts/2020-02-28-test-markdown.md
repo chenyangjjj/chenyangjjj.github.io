@@ -3,6 +3,7 @@ layout: post
 title: Lab News1
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+thumbnail-img: /assets/img/001.png
 tags: [test]
 comments: true
 ---
