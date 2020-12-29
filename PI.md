@@ -1,4 +1,4 @@
-<img src="/assets/img/PI.png" alt="PI" style="zoom: 20%;" div align=center />
+<div align=center><img src="/assets/img/PI.png" alt="PI" style="zoom: 25%;" />
 
 
 
